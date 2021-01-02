@@ -41,6 +41,11 @@ You are not encouraged to used this program publicly.
 
 ### Installation
 
+Begin with an Linux based machine (i'm using Ubuntu20 Desktop) with:
+- Apache (used 2.4.41)
+- PHP 7 (used 7.4.3)
+- SQLite (used 3.31.1)
+
 Make sure that you have composer installed
 [Composer](http://getcomposer.org).
 
